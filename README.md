@@ -1,36 +1,23 @@
 
 
-# CODE UNDERSTANDING TOOLS
+# ALAT PEMAHAMAN KODE
 
 
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/code-understanding-tools">
- 
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/code-understanding-tools">
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-    <p align="center">
-    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fcode-understanding-tools%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-Thank you for following me! https://cybdetective.com
 
 <hr>
 
 
-While working on various tasks in #osint (Open Source Intelligence), sometimes there is a need to quickly understand someone else's code.
+Saat mengerjakan berbagai tugas di coding, terkadang ada kebutuhan untuk memahami kode orang lain dengan cepat.
 
-For example, when investigating a person's public profile on Github or Bitbucket.
+Misalnya saat menyelidiki profil publik seseorang di Github atau Bitbucket.
 
-Also, the need to understand other people's code may arise when one wants to modify some of the #opensoure tools for #osint to suit one's needs.
+Selain itu, kebutuhan untuk memahami kode orang lain mungkin muncul ketika seseorang ingin memodifikasi beberapa alat #opensoure untuk #osint agar sesuai dengan kebutuhannya.
 
-Here is a small selection of online tools to help you do that.
+Berikut adalah beberapa pilihan alat online untuk membantu Anda melakukannya.
 
-Most of them are free.
+Kebanyakan dari mereka gratis.
 
-You can read a summary of how to work with the different classes of tools in my Twitter thread: https://twitter.com/cyb_detective/status/1508167717928546312
-
-
+Silahkan kunjungi web saya di : https://drat.github.io/
 <h1>Online compilation (and script running)</h1>
 
 | Name             | Link            | Price       | 
@@ -190,7 +177,7 @@ You can read a summary of how to work with the different classes of tools in my 
  <hr>
 
 
-Thank you for following me! https://cybdetective.com
+Terima kasih! https://drat.github.io/
 
 
 
